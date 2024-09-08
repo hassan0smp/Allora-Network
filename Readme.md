@@ -1,9 +1,10 @@
 # Allora network guide
 
 # Min System Requirement
-  ### CPU: Minimum of 1/2 core. Memory: 2 to 4 GB. 
-Storage: SSD or NVMe with at least 5GB of space.
-OS :UBUNTU 22.04 LTS
+  #### CPU: Minimum of 1/2 core. 
+  #### Memory: 2 to 4 GB. 
+  #### Storage: SSD or NVMe with at least 5GB of space.
+  #### OS :UBUNTU 22.04 LTS
 # Install Packages
 ```sh
 sudo apt update & sudo apt upgrade -y
