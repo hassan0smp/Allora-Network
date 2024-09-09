@@ -92,7 +92,7 @@ nano config.json
         "alloraHomeDir": "/root/.allorad",
         "gas": "1000000",
         "gasAdjustment": 1.0,
-        "nodeRpc": "https://sentries-rpc.testnet-1.testnet.allora.network/",
+        "nodeRpc": "https://rpc.ankr.com/allora_testnet",
         "maxRetries": 1,
         "delay": 1,
         "submitTx": false
